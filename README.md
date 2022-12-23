@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khan-408
 - 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning postgreSQL.
+- 🌱 I’m currently learning Data science and Machine Learning.
 - 💞️ I’m looking to collaborate on data analysis and insights presentations.
 - 📫 How to reach me aqleemkhan408@gmail.com
 
