@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khan-408.  I'm enthusiastic about data science and analytics. I work in python, numpy, pandas, and essential libraries. SQL (including Postgres) and Microsoft Power BI. Currently I am learning Machine learning and AI.
+- 👋 Hi, I’m @khan-408.  I'm enthusiastic about data science and analytics. I work in python, numpy, pandas, and other essential libraries, SQL (including Postgres) and Microsoft Power BI. Currently I'm learning Machine learning and AI.
 - 📫 To reach me out: aqleemkhan408@gmail.com
 
 <!---
