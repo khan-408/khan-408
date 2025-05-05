@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @khan-408.  I'm enthusiastic about data science and analytics. I work in python, numpy, pandas, and other essential libraries, SQL (including Postgres) and Microsoft Power BI. Currently I'm learning Machine learning and AI.
+- 👋 Hi, I’m an AI/ML enthusiast currently pursuing an MBA in Artificial Intelligence & Machine Learning. With a strong foundation in NLP, GenAI, and deep learning, I specialize in building intelligent systems that solve real-world problems.
+
+I’ve worked on diverse projects involving language models, transformers, recommender systems, and predictive analytics. I enjoy experimenting with the latest advancements in GenAI, LLMs, and agent-based AI, with hands-on experience using tools like TensorFlow, Hugging Face, Cloudera AI Workbench, and AWS.
+
+As an intern, I’ve collaborated with teams on end-to-end ML pipelines, model deployment, and real-time analytics. I’m always eager to learn and contribute to impactful AI solutions.
+
+📌 Feel free to explore my portfolio: https://khan-408.github.io/resume_portfolio.
 - 📫 To reach me out: aqleemkhan408@gmail.com
 
 <!---
